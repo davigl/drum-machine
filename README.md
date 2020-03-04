@@ -1,10 +1,11 @@
-<h1 align="center">
-React Drum Machine
-</h1>
+## :sound: React Drum Machine
 
-<h2>
-How does it looks? :thinking:
-</h2>
+Drum Machine project, where you can click or press a key and it will highlight this button and play a unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/).
+
+***
+
+### How does it looks? :thinking:
+
 
 <div align="center">
 
