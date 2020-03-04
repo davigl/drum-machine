@@ -1,6 +1,6 @@
 ## :sound: React Drum Machine
 
-Drum Machine project, where you can click or press a key and it will highlight this button and play a drum unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/). (Retro style)
+Drum Machine project, where you can click in the buttons or press keyboard a key and it will play a drum unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/). (Retro style)
 
 ***
 
