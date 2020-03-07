@@ -1,5 +1,21 @@
 ## :sound: React Drum Machine
 
+<div align="center">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg">
+
+  <img alt="Github Stars" src="https://img.shields.io/github/stars/Davigl/drum-machine?color=orange">
+
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Davigl/drum-machine?color=blueviolet">
+
+  <a href="https://github.com/Davigl/drum-machine/commits/master">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Davigl/drum-machine?color=ff69b4">
+  </a>
+
+  <a href="https://github.com/Davigl/drum-machine/issues">
+    <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/drum-machine?color=yellow">
+  </a>
+</div>
+
 Drum Machine project, where you can click in the buttons or press keyboard a key and it will play a drum unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/). (Retro style)
 
 ***
