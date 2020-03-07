@@ -4,22 +4,20 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg?style=for-the-badge">
-
-  <img alt="Github Stars" src="https://img.shields.io/github/stars/Davigl/drum-machine?style=for-the-badge&color=orange">
-
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/Davigl/drum-machine?style=for-the-badge&color=blueviolet">
-
-  <a href="https://github.com/Davigl/drum-machine/commits/master">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Davigl/drum-machine?style=for-the-badge&color=ff69b4">
-  </a>
-  
   <a href="https://github.com/Davigl/drum-machine/stargazers">
-    <img alt="GitHub last commit" src="https://img.shields.io/github/stars/Davigl/drum-machine?style=for-the-badge&color=9cf">
+    <img alt="GitHub Stars" src="https://img.shields.io/github/stars/Davigl/drum-machine?style=for-the-badge&color=9cf">
   </a>
 
   <a href="https://github.com/Davigl/drum-machine/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/drum-machine?style=for-the-badge&color=yellow">
+  </a>
+  
+  <img alt="GitHub top Language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg?style=for-the-badge">
+
+  <img alt="Repository Size" src="https://img.shields.io/github/repo-size/Davigl/drum-machine?style=for-the-badge&color=blueviolet">
+
+  <a href="https://github.com/Davigl/drum-machine/commits/master">
+    <img alt="GitHub Last Commit" src="https://img.shields.io/github/last-commit/Davigl/drum-machine?style=for-the-badge&color=ff69b4">
   </a>
 </p>
 
