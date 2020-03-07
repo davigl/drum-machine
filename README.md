@@ -12,6 +12,10 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
   <a href="https://github.com/Davigl/drum-machine/commits/master">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Davigl/drum-machine?color=ff69b4">
   </a>
+  
+  <a href="https://github.com/Davigl/drum-machine/stargazers">
+    <img alt="GitHub last commit" src="https://img.shields.io/github/stars/Davigl/drum-machine?color=9cf">
+  </a>
 
   <a href="https://github.com/Davigl/drum-machine/issues">
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/drum-machine?color=yellow">
