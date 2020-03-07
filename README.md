@@ -1,5 +1,6 @@
 <h1 align="center>
-🔉 React Drum Machine
+  🔉 React Drum Machine
+  <br>
 </h1>
 
 <p align="center">
