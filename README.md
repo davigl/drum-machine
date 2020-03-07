@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg?style=flat-square">
 
   <img alt="Github Stars" src="https://img.shields.io/github/stars/Davigl/drum-machine?color=orange">
 
