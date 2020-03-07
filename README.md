@@ -24,14 +24,14 @@
 </p>
 
 <p align="center">
-  <a href="#thinking-what-is-this?">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#thinking-about">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#ok_woman-user-stories">Stories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
 ***
 
-## :thinking: What is this?
+## :thinking: About
 
 Drum Machine project, where you can click in the buttons or press keyboard a key and it will play a drum unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/). (Retro style)
 
