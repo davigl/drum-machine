@@ -1,5 +1,7 @@
 ## :sound: React Drum Machine
 
+Drum Machine project, where you can click in the buttons or press keyboard a key and it will play a drum unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/). (Retro style)
+
 <div align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg">
 
@@ -15,8 +17,6 @@
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Davigl/drum-machine?color=yellow">
   </a>
 </div>
-
-Drum Machine project, where you can click in the buttons or press keyboard a key and it will play a drum unique sound. Visit the project by clicking [here](http://eudavi-drum-machine.netlify.com/). (Retro style)
 
 ***
 
