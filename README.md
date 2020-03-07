@@ -22,7 +22,6 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
 
 ## :thinking: How does it looks?
 
-
 <div align="center">
 
 ![](https://i.imgur.com/rcSVBW4.gif)
@@ -30,7 +29,6 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
 *Drum Machine*
 
 </div>
-
 
 ## :ok_woman: User Stories 
 
