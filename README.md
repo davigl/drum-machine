@@ -18,6 +18,12 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
   </a>
 </div>
 
+<div align="center">
+  <a href="#thinking-how-does-it-looks">Preview</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ok_woman-user-stories">Stories</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</div>
+
 ***
 
 ## :thinking: How does it looks?
