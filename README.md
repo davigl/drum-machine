@@ -20,7 +20,7 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
 
 ***
 
-### How does it looks? :thinking:
+## :thinking: How does it looks?
 
 
 <div align="center">
@@ -32,7 +32,7 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
 </div>
 
 
-### User Stories :ok_woman:
+## :ok_woman: User Stories 
 
 - [x] <strong>User Story #1:</strong> I should be able to see an outer container with a corresponding <code>id="drum-machine"</code> that contains all other elements.   
 - [x] <strong>User Story #2:</strong> Within <code>#drum-machine</code> I can see an element with a corresponding <code>id="display"</code>.   
@@ -42,6 +42,6 @@ Drum Machine project, where you can click in the buttons or press keyboard a key
 - [x] <strong>User Story #6:</strong> When I press the trigger key associated with each <code>.drum-pad</code>, the audio clip contained in its child <code>audio</code> element should be triggered (e.g. pressing the Q key should trigger the drum pad which contains the string "Q", pressing the W key should trigger the drum pad which contains the string "W", etc.).   
 - [x] <strong>User Story #7:</strong> When a <code>.drum-pad</code> is triggered, a string describing the associated audio clip is displayed as the inner text of the <code>#display</code> element (each string must be unique).   
 
-### License
+## :memo: License
 
 Copyright © 2020, [Davi Guimarães](https://github.com/davigl).
