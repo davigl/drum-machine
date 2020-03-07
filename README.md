@@ -1,4 +1,6 @@
-## :sound: React Drum Machine
+<h1 align="center>
+🔉 React Drum Machine
+</h1>
 
 <p align="center">
   <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/davigl/drum-machine.svg">
