@@ -1,5 +1,5 @@
 <h1 align="center">
-  🔉 React Drum Machine
+  <img alt="React Drum Machine" src="https://i.imgur.com/5zQgB7p.png" />
   <br>
 </h1>
 
